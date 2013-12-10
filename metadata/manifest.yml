@@ -97,6 +97,6 @@ Version-Overrides:
     - ruby(version) = 1.8
   
 Source-Url: http://github.com/xiuwang/rubytest.git
-Source-Url: file:///root/rubytest/
+#Source-Url: file:///root/rubytest/
 
 
