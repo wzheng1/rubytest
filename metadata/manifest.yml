@@ -1,5 +1,5 @@
 ---
-Name：p*p_
+Name：rubywzheng
 Cartridge-Short-Name: RUBY
 Display-Name: Ruby 1.9
 Description: Ruby is a dynamic, reflective, general-purpose object-oriented programming
@@ -96,7 +96,7 @@ Version-Overrides:
     - ruby
     - ruby(version) = 1.8
   
-Source-Url: http://github.com/xiuwang/rubytest.git
+Source-Url: http://github.com/wzheng1/rubytest.git
 #Source-Url: file:///root/rubytest/
 
 
